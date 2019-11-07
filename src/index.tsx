@@ -6,9 +6,8 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
-      <h1>Hello React JS</h1>
-      <input type="radio" /> Dog
-      <input type="radio" /> Cat
+      <h1>React JS demo for beginners...</h1>
+      <h3>First select the option and see the sound</h3>
       <Buttons />
     </div>
   );
